@@ -30,7 +30,7 @@ object-detection==0.1
 pandas==0.24.1
 pathlib2==2.3.3
 Pillow==5.4.1
-protobuf==3.6.1
+protobuf==3.15.0
 pycocotools==2.0
 pycparser==2.19
 pyOpenSSL==19.0.0
