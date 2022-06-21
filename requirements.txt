@@ -25,7 +25,7 @@ marshmallow==2.15.0
 matplotlib==2.2.2
 mkl-fft==1.0.10
 mkl-random==1.0.2
-numpy==1.15.4
+numpy==1.22.0
 object-detection==0.1
 pandas==0.24.1
 pathlib2==2.3.3
